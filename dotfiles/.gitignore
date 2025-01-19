@@ -468,9 +468,6 @@ ozw_log.txt
 # Development files
 custom_components
 
-### Homebrew ###
-Brewfile.lock.json
-
 ### Java ###
 # Compiled class file
 *.class
@@ -2256,7 +2253,6 @@ tags
 ##	it might not be complete. In addition, XAPP 1165 should be followed.
 #########
 #Exclude all
-*
 !*/
 !.gitignore
 ###########################################################################
@@ -2952,7 +2948,7 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,windows,clion,pycharm+all,visualstudiocode,visualstudio,linux,node,cmake,c,c++,python,jetbrains,jetbrains+all,latex,chocolatey,homebrew,tex,swift,objective-c,kotlin,java,kicad,adobe,sass,rust,julia,ros,ros2,scala,go,r,react,reactnative,scrivener,microsoftoffice,altium,orcad,vivado,xilinx,xilinxvivado,xilinxise,blender,cuda,circuitpython,dropbox,eagle,eclipse,flatpak,fusetools,homeassistant,libreoffice,osx,putty,tower,unity,unrealengine,vim,xcode,zsh,yarn,venv,ssh,dotfilessh,dotenv,certificates
+# End of https://www.toptal.com/developers/gitignore/api/macos,windows,clion,pycharm+all,visualstudiocode,visualstudio,linux,node,cmake,c,c++,python,jetbrains,jetbrains+all,latex,chocolatey,tex,swift,objective-c,kotlin,java,kicad,adobe,sass,rust,julia,ros,ros2,scala,go,r,react,reactnative,scrivener,microsoftoffice,altium,orcad,vivado,xilinx,xilinxvivado,xilinxise,blender,cuda,circuitpython,dropbox,eagle,eclipse,flatpak,fusetools,homeassistant,libreoffice,osx,putty,tower,unity,unrealengine,vim,xcode,zsh,yarn,venv,ssh,dotfilessh,dotenv,certificates
 
 # Temporary Files and Caches
 *.log

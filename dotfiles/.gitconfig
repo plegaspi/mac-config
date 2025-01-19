@@ -1,0 +1,14 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Paul Legaspi
+	email = 39167788+plegaspi@users.noreply.github.com
+[core]
+	excludesfile = ~/.gitignore
+[github]
+	user = plegaspi
+[init]
+	defaultBranch = main

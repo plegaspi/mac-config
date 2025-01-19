@@ -1,0 +1,99 @@
+tap "homebrew/bundle"
+tap "homebrew/services"
+tap "nextfire/tap"
+cask "aldente"
+cask "alfred"
+cask "arduino-ide"
+cask "bartender"
+cask "brave-browser"
+cask "calibre"
+cask "cheatsheet"
+cask "chromium"
+cask "clion"
+cask "cyberduck"
+cask "discord"
+cask "docker"
+cask "firefox"
+cask "focusrite-control"
+cask "forklift"
+cask "github"
+cask "google-chrome"
+cask "google-drive"
+cask "hazel"
+cask "iina"
+cask "imazing"
+cask "iterm2"
+cask "jordanbaird-ice"
+cask "karabiner-elements"
+cask "keka"
+cask "kicad"
+cask "koodo-reader"
+cask "latest"
+cask "little-snitch@5"
+cask "lookaway"
+cask "lunar"
+cask "mactex"
+cask "malwarebytes"
+cask "mediamate"
+cask "microsoft-remote-desktop"
+cask "miniforge"
+cask "mountain-duck"
+cask "notchnook"
+cask "orion"
+cask "oversight"
+cask "parallels"
+cask "pocket-casts"
+cask "popclip"
+cask "prismlauncher"
+cask "proton-drive"
+cask "proton-mail"
+cask "protonvpn"
+cask "pycharm-ce"
+cask "rectangle-pro"
+cask "shottr"
+cask "soundsource"
+cask "teamviewer"
+cask "transmission"
+cask "transnomino"
+cask "utm"
+cask "visual-studio-code"
+mas "Actions", id: 1586435171
+mas "Anybox", id: 1593408455
+mas "Bear", id: 1091189122
+mas "Bitwarden", id: 1352778147
+mas "Calculate84", id: 1459712793
+mas "Capture", id: 6458535284
+mas "Color Picker", id: 1545870783
+mas "Dark Noise", id: 1465439395
+mas "Drafts", id: 1435957248
+mas "Everlog", id: 1519935634
+mas "Fantastical", id: 975937182
+mas "Focused Work", id: 1523968394
+mas "Free Ruler", id: 1483172210
+mas "Goodnotes", id: 1444383602
+mas "Highlights", id: 1498912833
+mas "Jomo", id: 1609960918
+mas "LocalSend", id: 1661733229
+mas "Mirror Magnet", id: 1563698880
+mas "MusicHarbor", id: 1440405750
+mas "MyWallpaper", id: 1552826194
+mas "New File Menu", id: 1064959555
+mas "Parcel", id: 639968404
+mas "PastePal", id: 1503446680
+mas "PDFgear", id: 6469021132
+mas "Pikka", id: 1195076754
+mas "Pixelmator Pro", id: 1289583905
+mas "Play", id: 1596506190
+mas "RectLabel", id: 1210181730
+mas "Reeder", id: 1529448980
+mas "Scrivener 3", id: 1310686187
+mas "SmartGym", id: 922744883
+mas "SongCapsule", id: 1476724373
+mas "Streaks", id: 963034692
+mas "Things", id: 904280696
+mas "Unplug Alarm", id: 1489026302
+mas "Unsqueeze", id: 6475134617
+mas "Velja", id: 1607635845
+mas "WaterMinder", id: 1415257369
+mas "Xcode", id: 497799835
+mas "Yomu", id: 562211012
